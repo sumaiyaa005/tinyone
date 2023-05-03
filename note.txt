@@ -1,0 +1,7 @@
+font--------------
+    PTSans-regular
+color-------------
+    ye:#fcdb00;
+    bl:#010101;
+    ash:#898989
+padding----------
