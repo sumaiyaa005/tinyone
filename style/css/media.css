@@ -1,16 +1,118 @@
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
 
+            /* header start */
+            .menu ul li a {
+                font-size: 20px;
+                padding: 10px 0 0 !important;
+                text-align: right ;
+            }
+                /* header end */
+
+                    /* slider start */
+    .slider{
+        padding-bottom: 60px;
+    }
+    
+    .c_ind{
+        bottom: -60px ;
+    }
+    
+    .c_ind [data-bs-target] {
+        width: 13px ;
+        height: 13px ;
+    }
+
+    .s_text{
+        margin-top: 0px;
+    }
+    .s_text h1{
+        font-size: 25px;
+    }
+    .s_text h2{
+        margin: 10px 0;
+        font-size: 18px;
+    
+    }
+    .s_text p{
+        margin-bottom: 20px;
+    }
+    
+    .s_icon ul li{
+        margin-right: 15px !important;
+    }
+    .s_icon ul li i{
+        font-size: 35px;
+    }
+        /* slider end */
+
+        
+    
     
  }
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) and (max-width: 767.98px) {
 
+        /* header start */
+        .menu ul li a {
+            font-size: 20px;
+            padding: 10px 0 0 !important;
+            text-align: right ;
+        }
+            /* header end */
+
+    /* slider start */
+    .slider{
+        padding-bottom: 60px;
+    }
+    
+    .c_ind{
+        bottom: -55px ;
+    }
+    
+    .c_ind [data-bs-target] {
+        width: 13px ;
+        height: 13px ;
+    }
+
+    .s_text{
+        margin-top: 0px;
+    }
+    .s_text h1{
+        font-size: 25px;
+    }
+    .s_text h2{
+        margin: 10px 0;
+        font-size: 18px;
+    
+    }
+    .s_text p{
+        margin-bottom: 20px;
+    }
+    
+    .s_icon ul li{
+        margin-right: 20px !important;
+    }
+    .s_icon ul li i{
+        font-size: 35px;
+    }
+        /* slider end */
+
+    
+
     }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* header start */
+    .menu ul li a {
+        padding: 10px 0 0 !important;
+        text-align: right ;
+    }
+        /* header end */
+
 
     }
 
