@@ -201,9 +201,17 @@ header {
     text-transform: uppercase;
 }
 
+.c_submit:active {
+    background-color: #fff;
+    color: #010101;
+}
+
 .c_submit:hover {
     background-color: #fff;
+    color: #010101;
 }
+
+
 
 .c_icon li {
     margin-right: 30px !important;
